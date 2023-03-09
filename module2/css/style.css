@@ -9,6 +9,9 @@ p {
   margin-bottom: 15px;
   background-color: gray;
 }
+div {
+    float: right;
+  }
 #p1 {
   width: 300px;
   height: 300px;
@@ -23,15 +26,15 @@ p {
   }
   #p11 {
     background-color: #d84a4adc;
-    float: right;
+
   }
   #p22 {
     background-color: #9b3e27;
-    float: right;
+
   }
   #p33 {
       background-color: #d8e700;
-      float: right;
+
     }  
 /********** Large devices only **********/
 @media (min-width: 1200px) {
