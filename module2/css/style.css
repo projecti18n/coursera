@@ -6,11 +6,12 @@
   text-align: center;
 }
 
-p {
+div {
+    float: right;
     border: 1px solid black;
     margin-bottom: 15px;
     background-color: gray;
-}
+  }
 
 #p1 {
   width: 300px;
@@ -29,15 +30,18 @@ p {
   #p11 {
     background-color: #d84a4adc;
     font-size: 24pt;
+
   }
   #p22 {
     background-color: #9b3e27;
     color: white;
     font-size: 24pt;
+
   }
   #p33 {
       background-color: #d8e700;
       font-size: 24pt;
+
     }  
 /********** Large devices only **********/
 @media (min-width: 1200px) {
