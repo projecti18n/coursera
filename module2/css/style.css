@@ -31,17 +31,18 @@ div {
   #p11 {
     background-color: #d84a4adc;
     font-size: 24pt;
-
+    width: 100%;
   }
   #p22 {
     background-color: #9b3e27;
     color: white;
     font-size: 24pt;
-
+    width: 100%;
   }
   #p33 {
       background-color: #d8e700;
       font-size: 24pt;
+      width: 100%;      
 
     }  
 /********** Large devices only **********/
