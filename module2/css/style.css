@@ -3,6 +3,7 @@
 h1 {
   margin-bottom: 15px;
   align: center;
+  font-size: 30pt;
 }
 
 p {
@@ -30,16 +31,16 @@ div {
   }
   #p11 {
     background-color: #d84a4adc;
-    font-size: x-large;
+    font-size: 24pt;
   }
   #p22 {
     background-color: #9b3e27;
     color: white;
-    font-size: x-large;
+    font-size: 24pt;
   }
   #p33 {
       background-color: #d8e700;
-      font-size: x-large;
+      font-size: 24pt;
     }  
 /********** Large devices only **********/
 @media (min-width: 1200px) {
