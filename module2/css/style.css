@@ -28,15 +28,18 @@ div {
   }
   #p11 {
     background-color: #d84a4adc;
+    font-size: large;
 
   }
   #p22 {
     background-color: #9b3e27;
     color: white;
+    font-size: large;
 
   }
   #p33 {
       background-color: #d8e700;
+      font-size: large;
 
     }  
 /********** Large devices only **********/
