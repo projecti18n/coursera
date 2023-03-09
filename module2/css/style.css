@@ -10,20 +10,32 @@ p {
   background-color: gray;
 }
 #p1 {
-  background-color: #A52A2A;
   width: 300px;
   height: 300px;
 }
 #p2 {
-  background-color: #DEB887;
   width: 300px;
   height: 300px;
 }
 #p3 {
-    background-color: #DEB887;
     width: 300px;
     height: 300px;
   }
+  #p11 {
+    background-color: #d84a4adc;
+    width: 300px;
+    height: 300px;
+  }
+  #p22 {
+    background-color: #9b3e27;
+    width: 300px;
+    height: 300px;
+  }
+  #p33 {
+      background-color: #d8e700;
+      width: 300px;
+      height: 300px;
+    }  
 /********** Large devices only **********/
 @media (min-width: 1200px) {
     #p1 {
