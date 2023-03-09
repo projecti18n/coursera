@@ -17,16 +17,17 @@ div {
 #p1 {
   width: 300px;
   height: 300px;
-
+  clear: right;
 }
 #p2 {
   width: 300px;
   height: 300px;
-
+  clear: right;
 }
 #p3 {
     width: 300px;
     height: 300px;
+    clear: right;
   }
   #p11 {
     background-color: #d84a4adc;
