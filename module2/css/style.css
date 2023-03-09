@@ -31,18 +31,18 @@ div {
   #p11 {
     background-color: #d84a4adc;
     font-size: large;
-
+    margin-right: 0px;
   }
   #p22 {
     background-color: #9b3e27;
     color: white;
     font-size: large;
-
+    margin-right: 0px;
   }
   #p33 {
       background-color: #d8e700;
       font-size: large;
-
+      margin-right: 0px;
     }  
 /********** Large devices only **********/
 @media (min-width: 1200px) {
