@@ -49,6 +49,25 @@ div {
       clear: right;
 
     }  
+    #t1 {
+        background-color: #d84a4adc;
+        font-size: 24pt;
+        position: relative;
+        clear: right;
+      }
+      #t2 {
+        background-color: #9b3e27;
+        font-size: 24pt;
+        position: relative;
+        clear: right;
+      }
+      #t3 {
+          background-color: #d8e700;
+          font-size: 24pt;
+          position: relative;
+          clear: right;
+    
+        }  
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
