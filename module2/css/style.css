@@ -12,21 +12,25 @@ div {
     border: 1px solid black;
     margin-bottom: 15px;
     background-color: gray;
+    position: relative;
+    clear: right;
   }
 
 #p1 {
   width: 300px;
   height: 300px;
+  position: relative;
   clear: right;
 }
 #p2 {
   width: 300px;
   height: 300px;
+  position: relative;
   clear: right;
 }
 #p3 {
     width: 300px;
-    height: 300px;
+    position: relative;
     clear: right;
   }
   #p11 {
