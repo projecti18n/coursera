@@ -8,41 +8,47 @@ h1 {
 
 div {
     float: right;
-    border: 1px solid black;
     margin-bottom: 15px;
     background-color: gray;
   }
 
-#p1 {
-  width: 300px;
-  height: 300px;
-  clear: right;
-}
-#p2 {
-  width: 300px;
-  height: 300px;
-  clear: right;
-}
-#p3 {
+.box{
+
+    border: 1px solid black;
     width: 300px;
     height: 300px;
-    clear: right;
+    }
+
+.header{
+    border: 1px solid black;
+    font-size: 24pt;
+    }
+
+.text{
+    clear: both;
+    border: 0px solid black;
+}
+
+  #p1 {
+
   }
+  #p2 {
+
+  }
+  #p3 {
+
+    }
+
   #p11 {
     background-color: #d84a4adc;
-    font-size: 24pt;
-    clear: right;
+
   }
   #p22 {
     background-color: #9b3e27;
     color: white;
-    font-size: 24pt;
-    clear: right;
   }
   #p33 {
       background-color: #d8e700;
-      font-size: 24pt;
-      clear: right;
 
     }  
 
