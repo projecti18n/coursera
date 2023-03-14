@@ -13,3 +13,7 @@
 .navbar-collapse {
     background-color: yellow;
 }
+
+.container{
+  width: 90%;
+}
