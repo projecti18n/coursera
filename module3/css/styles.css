@@ -2,18 +2,9 @@
     height: 1000px;
     background-color: gray;
 
-    margin-right: 15px;
+    margin: auto;
 }
-#e2 {
-    margin-left: none;
-}
-#e3 {
 
-  }
 .navbar-nav {
     background-color: yellow;
-}
-
-.container {
-
 }
