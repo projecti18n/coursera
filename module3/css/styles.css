@@ -13,3 +13,7 @@
 .navbar-nav {
     background-color: yellow;
 }
+
+.container {
+    margin-left: none;
+}
