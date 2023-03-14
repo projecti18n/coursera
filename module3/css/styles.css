@@ -10,10 +10,6 @@
 #e3 {
 
   }
-.navbar-collapse {
+.navbar-nav {
     background-color: yellow;
-}
-
-.container{
-  width: 90%;
 }
