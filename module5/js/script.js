@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 //
 // TODO: STEP 1: Substitute [...] below with the *value* of the function buildAndShowHomeHTML,
 // so it can be called when server responds with the categories data.
-Lesson 57, Part 2, 9:32
+//Lesson 57, Part 2, 9:32
 
 // *** start ***
 // On first load, show home view
@@ -103,8 +103,8 @@ function buildAndShowHomeHTML (categories) {
       // Pay attention to what type of data that function returns vs what the chosenCategoryShortName
       // variable's name implies it expects.
       // var chosenCategoryShortName = ....
-      Lesson 60, 8:32
-      Lesson 61, 2:00 firebaseio json
+      //Lesson 60, 8:32
+      //Lesson 61, 2:00 firebaseio json
       // TODO: STEP 3: Substitute {{randomCategoryShortName}} in the home html snippet with the
       // chosen category from STEP 2. Use existing insertProperty function for that purpose.
       // Look through this code for an example of how to do use the insertProperty function.
