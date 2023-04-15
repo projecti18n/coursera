@@ -68,3 +68,11 @@ function speak(name) {
 }
 
 )();
+a javascript task:
+Substitute XXX below with the *value* of the function buildAndShowHomeHTML
+showLoading("#main-content");
+$ajaxUtils.sendGetRequest(
+  allCategoriesUrl,
+  XXX, // ***** <---- TODO: STEP 1: Substitute [...] ******
+  true); 
+});
